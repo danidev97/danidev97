@@ -1,9 +1,7 @@
-<h1 align="center">Hola 👋, Soy Daniel Castro de Chile</h1>
-<h3 align="center">Apasionado por la tecnología y sus herramientas en especial en el apartado Frontend</h3>
+<h1 align="center">Hi 👋, I'm Daniel Jr Frontend Dev</h1>
+<h3 align="center">Passionate about technology and its tools, Jr Frontend Developer 🤓</h3>
+<h3 align="center">📖 Continuous learning </h3>
 
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 📫 Comunícate conmigo **d4niel.castro@gmail.com**
 
 <p align="left">
 </p>
